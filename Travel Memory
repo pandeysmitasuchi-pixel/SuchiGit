@@ -1,1 +1,6 @@
+git init
+git remote add origin https://github.com/pandeysmitasuchi-pixel/SuchiGit.git
+git add .
+git commit -m "Travel Memory App Deployment"
+git push -u origin main
 
